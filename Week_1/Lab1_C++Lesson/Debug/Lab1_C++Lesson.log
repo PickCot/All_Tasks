@@ -1,0 +1,5 @@
+﻿  Lab1_C++Lesson.cpp
+C:\Users\Konstantin\source\repos\Lab1_C++Lesson\Lab1_C++Lesson\Lab1_C++Lesson.cpp(8,21): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Konstantin\source\repos\Lab1_C++Lesson\Lab1_C++Lesson\Lab1_C++Lesson.cpp(9,20): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Konstantin\source\repos\Lab1_C++Lesson\Lab1_C++Lesson\Lab1_C++Lesson.cpp(16,21): warning C4305: инициализация: усечение из "double" в "float"
+  Lab1_C++Lesson.vcxproj -> C:\Users\Konstantin\source\repos\Lab1_C++Lesson\Debug\Lab1_C++Lesson.exe
